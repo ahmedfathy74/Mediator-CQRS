@@ -1,0 +1,15 @@
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Application.deps.json
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Application.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Application.pdb
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Domain.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Domain.pdb
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.AssemblyReference.cache
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.AssemblyInfoInputs.cache
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.AssemblyInfo.cs
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.CoreCompileInputs.cache
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.CopyComplete
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\refint\PostLand.Application.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.pdb
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\ref\PostLand.Application.dll

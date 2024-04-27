@@ -1,0 +1,11 @@
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.deps.json
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\bin\Debug\net8.0\PostLand.Domain.pdb
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.AssemblyInfoInputs.cache
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.AssemblyInfo.cs
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.csproj.CoreCompileInputs.cache
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\refint\PostLand.Domain.dll
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\PostLand.Domain.pdb
+C:\Users\afdarwish\source\repos\PostLand\PostLand\PostLand.Domain\obj\Debug\net8.0\ref\PostLand.Domain.dll
